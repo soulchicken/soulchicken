@@ -3,7 +3,7 @@
 ✏️ 기술블로그 ✏️ <br><br>
 <a href="https://velog.io/@soulchicken"><img src="https://img.shields.io/badge/chicken_velog-3DDC84?style=flat-square&logo=Vector Logo Zone&logoColor=white"/></a> <br><br>
 📖 일기블로그 📖 <br><br>
-<a href="https://soul-chicken.tistory.com/n"><img src="https://img.shields.io/badge/chicken_TISTORY-black?style=flat-square&logo=Talend&logoColor=white"/></a>
+<a href="https://soul-chicken.tistory.com/"><img src="https://img.shields.io/badge/chicken_TISTORY-black?style=flat-square&logo=Talend&logoColor=white"/></a>
 </p>
 <br>
 <p align="center">
