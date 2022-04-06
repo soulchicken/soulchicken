@@ -6,6 +6,13 @@
 <a href="https://soul-chicken.tistory.com/"><img src="https://img.shields.io/badge/chicken_TISTORY-black?style=flat-square&logo=Talend&logoColor=white"/></a>
 </p>
 <br>
+
+<p align="center">
+:eyes: 일기블로그 :eyes: <br><br>
+<a href="https://soulchicken.github.io/WEB_collection/index.html"><img src="https://img.shields.io/badge/Web_Mini_Projects-brown?style=flat-square&logo=Webflow&logoColor=white"/></a>
+
+</p>
+  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
