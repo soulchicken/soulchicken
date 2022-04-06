@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-:eyes: 일기블로그 :eyes: <br><br>
+:eyes: 프로젝트 :eyes: <br><br>
 <a href="https://soulchicken.github.io/WEB_collection/index.html"><img src="https://img.shields.io/badge/Web_Mini_Projects-brown?style=flat-square&logo=Webflow&logoColor=white"/></a>
 
 </p>
