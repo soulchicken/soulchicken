@@ -9,7 +9,9 @@
 
 <p align="center">
 :eyes: 프로젝트 :eyes: <br><br>
-<a href="https://soulchicken.github.io/WEB_collection/index.html"><img src="https://img.shields.io/badge/Web_Mini_Projects-brown?style=flat-square&logo=Webflow&logoColor=white"/></a>
+<a href="https://soulchicken.github.io/WEB_collection/index.html"><img src="https://img.shields.io/badge/Web_Mini_Projects-brown?style=flat-square&logo=Webflow&logoColor=white"/></a> <br>
+<a href="https://soulchicken.github.io/todo-app/"><img src="https://img.shields.io/badge/TodoList-brown?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
+<a href="https://github.com/soulchicken/movie-app"><img src="https://img.shields.io/badge/MovieApp-brown?style=flat-square&&logo=React&logoColor=white"/></a>
 <br><br>
 </p>
 <p align="center">
