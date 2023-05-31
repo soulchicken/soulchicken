@@ -1,8 +1,6 @@
 <h3 align="center"> 🐥 소울치킨 (soulchicken)🐣 </h3>
 <p align="center">
-✏️ 기술블로그 ✏️ <br><br>
-<a href="https://velog.io/@soulchicken"><img src="https://img.shields.io/badge/chicken_velog-3DDC84?style=flat-square&logo=Vector Logo Zone&logoColor=white"/></a> <br><br>
-📖 일기블로그 📖 <br><br>
+📖 블로그 📖 <br><br>
 <a href="https://soul-chicken.tistory.com/"><img src="https://img.shields.io/badge/chicken_TISTORY-black?style=flat-square&logo=Talend&logoColor=white"/></a>
 </p>
 <br>
