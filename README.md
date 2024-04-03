@@ -16,9 +16,15 @@
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/>
 </p>
 
-### 💪 Project & Activity
+### 💪 Activity
+  - (2024.03 - ) GDSC Hongik Core Member (DevRel)
+  - (2023.03 - 2023.11) SWMaestro 14th
+  - (2022.03 - 2022.09) 플레이데이터
+
+### Project
   - (2023.03 - 2023.11) SWMaestro 14th - 웹툰 캐릭터와의 1:1 대화 ToonChat
   - (2022.07 - 2022.09) 플레이데이터 - Plannergram. 여행 컨텐츠, 동선 등을 나누는 커뮤니티
+
 ### ✏️ School
   - Hongik Univ.
     - 건축대학 건축학부 건축학과.
