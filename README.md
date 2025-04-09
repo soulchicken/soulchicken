@@ -17,7 +17,8 @@
 </p>
 
 ### 💪 Activity
-  - (2024.03 - ) GDSC Hongik Core Member (DevRel)
+  - (2025.03 - ) GDG Hongik Core Member (Frontend Part Lead)
+  - (2024.03 - 2025.02) GDSC Hongik Core Member (DevRel)
   - (2023.03 - 2023.11) SWMaestro 14th
   - (2022.03 - 2022.09) 플레이데이터
 
@@ -28,7 +29,7 @@
 ### ✏️ School
   - Hongik Univ.
     - 건축대학 건축학부 건축학과.
-    - 복수전공 - 컴퓨터공학.
+    - ~~복수전공 - 컴퓨터공학~~.
 
 ### 📫 Contects
 E-mail : soulfever01@naver.com
