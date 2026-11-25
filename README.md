@@ -17,8 +17,8 @@
 </p>
 
 ### 💪 Activity
-  - (2025.09 - ) GDG Hongik Lead
-  - (2025.03 - ) GDG Hongik Core Member (Frontend Part Lead)
+  - (2025.09 - 2026.08) GDG Hongik Lead
+  - (2025.03 - 2026.08) GDG Hongik Core Member (Frontend Part Lead)
   - (2024.03 - 2025.02) GDSC Hongik Core Member (DevRel)
   - (2023.03 - 2023.11) SWMaestro 14th
   - (2022.03 - 2022.09) 플레이데이터
